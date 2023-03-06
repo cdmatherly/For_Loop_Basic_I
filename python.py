@@ -32,7 +32,7 @@ for j in range(2018, 0, -4):
 
 
 lowNum = 0
-highNum = 100
+highNum = 101
 mult = 5
 for w in range(lowNum, highNum, mult):
     print(w)
